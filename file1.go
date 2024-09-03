@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("File 1")
+	fmt.Println("File 2")
 }
